@@ -1,0 +1,1 @@
+https://www.example.com?q=<script>alert(1)</script>
